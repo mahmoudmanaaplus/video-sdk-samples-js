@@ -2,6 +2,9 @@
   "name": "signaling-sdk-samples-web-vite",
   "private": true,
   "version": "0.0.0",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
